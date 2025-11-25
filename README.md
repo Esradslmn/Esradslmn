@@ -1,10 +1,10 @@
 ![MasterHead](https://wallpapercg.com/media/ts_orig/18789.webp)
 <h1 align="center">Hi 👋, I'm Esra Güler</h1>
-<h3 align="center">👨‍💻 An incredibly enthusiastic Computer Engineering student</h3>
+<h3 align="center">👨‍💻 An incredibly enthusiastic Computer Engineer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=esradslmn&label=Profile%20views&color=0e75b6&style=flat" alt="esradslmn" /> </p>
 
-- 🔭 I’m currently working on **Game Development**
+- 🔭 I’m currently working on **Backend Development**
 
 - 🌱 I'm learning everything **right now**
 
